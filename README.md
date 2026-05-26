@@ -29,4 +29,4 @@ The long-term objective is to fully integrate the trained model with the Unity g
 Clone this repository to your local machine:
 
 ```bash
-git clone https://***
+git clone **URL**
